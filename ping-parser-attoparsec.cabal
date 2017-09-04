@@ -3,6 +3,8 @@ version:             0.1.0.0
 stability:           experimental
 synopsis:            Attoparsec parsers of ping utility
 description:         Attoparsec parsers of ping utility
+                     Currently there is only one implementation for the Win32
+                     version of ping and only support IPv4.
 homepage:            https://github.com/frincon/ping-parser-attoparsec
 bug-reports:         https://github.com/frincon/ping-parser-attoparsec/issues
 license:             Apache-2.0

@@ -1,8 +1,10 @@
 name:                ping-parser-attoparsec
-version:             0.1.0
--- synopsis:
--- description:
-homepage:            https://github.com/frincon/ping-parser-attoparsec#readme
+version:             0.1.0.0
+stability:           experimental
+synopsis:            Attoparsec parsers of ping utility
+description:         Attoparsec parsers of ping utility
+homepage:            https://github.com/frincon/ping-parser-attoparsec
+bug-reports:         https://github.com/frincon/ping-parser-attoparsec/issues
 license:             Apache-2.0
 license-file:        LICENSE
 author:              Fernando Rincon Martin

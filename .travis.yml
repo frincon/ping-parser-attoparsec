@@ -1,11 +1,6 @@
 sudo: false
 
 language: c
-addons: 
-  apt: 
-    packages: 
-      - libgmp
-      - libgmp-dev
 cache:
   directories:
   - $HOME/.ghc

@@ -14,6 +14,9 @@
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE OverloadedStrings #-}
 
+{-|
+Parser for ping output. Common Types.
+-}
 module Data.Attoparsec.Ping
   ( PingResult(..)
   , PingError(..)

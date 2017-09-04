@@ -14,6 +14,9 @@
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE OverloadedStrings #-}
 
+{-|
+Parser for ping output. Parser for the output of Win32 ping utility.
+-}
 module Data.Attoparsec.Ping.Win32
   ( pingParser
   , module Data.Attoparsec.Ping
